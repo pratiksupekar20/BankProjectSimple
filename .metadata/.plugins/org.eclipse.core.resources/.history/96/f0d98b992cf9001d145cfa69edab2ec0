@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Bank_Managenment_System">
+        <property name="context-root" value="Bank_Managenment_System"/>
+    </wb-module>
+</project-modules>
